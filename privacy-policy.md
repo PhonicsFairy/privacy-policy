@@ -33,3 +33,11 @@ Opt out of certain data collection practices.
 6. Contact Us
 If you have questions about this Privacy Policy, please contact us at:
 Email: Hello@blackpiano.co.uk
+
+7. Requesting Account and Data Deletion
+Users can request the deletion of their account and associated data by:
+
+Sending an email to Hello@blackpiano.co.uk with the subject line "Data Deletion Request".
+Filling out the online form at https://docs.google.com/forms/d/1uOw0F87WKkTa43pyAip3n87dyzl4yS1IL6noIDMNO1s/edit.
+Using the in-app "Request Data Deletion" feature under Settings > Privacy.
+We will respond to all deletion requests within 30 days.
